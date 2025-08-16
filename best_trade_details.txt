@@ -1,0 +1,28 @@
+INFO: Slow trade is better - Transport at 130% weight capacity!
+----------------------------------------------------------------------------------------------------
+Optimal trade quantities for Thetford to Fort Sterling:
+
+T3_WOOD: 9496.00 units for 344230.00 profit (buy at 104.00, sell at 150.00, profit per unit is 36.25)
+T5_WOOD_LEVEL1@1: 1250.00 units for 53250.00 profit (buy at 481.00, sell at 560.00, profit per unit is 42.60)
+T5_WOOD: 1280.00 units for 39334.40 profit (buy at 304.00, sell at 358.00, profit per unit is 30.73)
+
+Maximum profit: 439397.63
+Profit margin: 21.97%
+Total cost: 1999994.00
+Total weight: 5199.99 / 5200.00
+Total time: 8.00
+
+----------------------------------------------------------------------------------------------------
+Optimal trade quantities for Fort Sterling to Thetford:
+
+T4_ORE: 8903.00 units for 171738.87 profit (buy at 106.00, sell at 134.00, profit per unit is 19.29)
+T4_HIDE_LEVEL1@1: 768.00 units for 25463.04 profit (buy at 166.00, sell at 213.00, profit per unit is 33.16)
+T5_HIDE_LEVEL1@1: 318.00 units for 7824.39 profit (buy at 614.00, sell at 683.00, profit per unit is 24.61)
+TREASURE_CEREMONIAL_RARITY3: 10.00 units for 6120.00 profit (buy at 23388.00, sell at 25668.45, profit per unit is 612.00)
+
+Maximum profit: 211146.30
+Profit margin: 14.07%
+Total cost: 1500338.00
+Total weight: 5199.93 / 5200.00
+Total time: 8.00
+

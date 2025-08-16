@@ -194,7 +194,7 @@ function get_data_online()
     itemList, weights = generate_items()
     
     # TODO: dont hardcore locations
-    locations = "Thetford,Lymhurst,Fort%20Sterling" # %20 is a space used in URLs
+    locations = "Thetford,Lymhurst,Fort%20Sterling,Martlock,Bridgewatch,Caerleon" # %20 is a space used in URLs
     current_prices, historic_volumes, historic_prices = fetch_data(itemList, locations)
 
     if length(current_prices) != length(historic_volumes)
