@@ -13,7 +13,7 @@ function generate_items() :: Tuple{String, Dict{String, Float64}}
 
     for tier in 2:8
         # Add resource items
-        for item in ["FIBER", "WOOD", "STONE", "ORE", "HIDE"]
+        for item in ["FIBER", "WOOD", "STONE", "ORE", "HIDE", "CLOTH", "PLANKS", "STONEBLOCK", "METALBAR", "LEATHER"]
             list *= "T$(tier)_$(item),"
             weight = 0.1 * 1.5^(tier)
             weights["T$(tier)_$(item)"] = weight

@@ -1,1 +1,4 @@
 data/items.txt
+data/current_prices.json
+data/historic_prices.json
+data/historic_volumes.json
