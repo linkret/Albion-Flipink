@@ -350,7 +350,7 @@ end
 # TODO: add scenarios where you buy a mount, then sell it back afterwards, and calculate the loss of that
 #       This will be more useful later on when we support dynamic mounts, and the optimizer to recommend which mount to use
 
-trade_cfg = TradeConfig(4e6, 4000, 0.04, 0.065, 1.0, 5) # defaults, pretty arbitrary
+trade_cfg = TradeConfig(2e6, 4000, 0.02, 0.065, 1.0, 5) # defaults, pretty arbitrary
 trade_cfg_130 = to_encumbered(trade_cfg) # slower but more capacity, usually better
 
 royal_cities = [Thetford, FortSterling, Lymhurst, Bridgewatch, Martlock]

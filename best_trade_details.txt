@@ -1,31 +1,36 @@
 INFO: Fast trade is better - Transport at 100% weight capacity!
 ----------------------------------------------------------------------------------------------------
-Optimal trade quantities for Thetford → Fort Sterling → Lymhurst:
+Optimal trade quantities for Thetford to Martlock:
 
-T2_PLANKS: AB = 2122, AC = 0, BC = 0
-T3_WOOD: AB = 7383, AC = 0, BC = 0
-T4_WOOD_LEVEL1@1: AB = 89, AC = 0, BC = 0
-T4_ORE: AB = 0, AC = 0, BC = 288
-T4_METALBAR_LEVEL1@1: AB = 975, AC = 896, BC = 0
-T5_FIBER_LEVEL3@3: AB = 0, AC = 0, BC = 81
-T8_FIBER_LEVEL1@1: AB = 0, AC = 15, BC = 0
-T3_MEAT: AB = 0, AC = 0, BC = 2614
-TREASURE_RITUAL_RARITY1: AB = 0, AC = 0, BC = 631
-Maximum profit: 844293.04
-Time required: 21.00
+T4_PLANKS: 2044 units for 133738.92 profit (buy at 288.00, sell at 378.00, profit per unit is 65.43)
+T4_PLANKS_LEVEL2@2: 382 units for 75960.70 profit (buy at 1774.00, sell at 2110.00, profit per unit is 198.85)
+T3_HIDE: 2852 units for 53389.44 profit (buy at 86.00, sell at 112.00, profit per unit is 18.72)
+T4_CLOTH_LEVEL1@1: 510 units for 46213.65 profit (buy at 404.00, sell at 529.00, profit per unit is 90.62)
+T3_CLOTH: 1345 units for 44506.05 profit (buy at 167.00, sell at 214.00, profit per unit is 33.09)
+T6_CLOTH_LEVEL2@2: 18 units for 43976.70 profit (buy at 22886.00, sell at 27090.00, profit per unit is 2443.15)
+T7_MEAT: 1159 units for 43688.51 profit (buy at 427.00, sell at 497.00, profit per unit is 37.70)
+T6_HIDE_LEVEL3@3: 12 units for 33564.96 profit (buy at 30833.00, sell at 35968.00, profit per unit is 2797.08)
+T4_FIBER_LEVEL2@2: 457 units for 27328.60 profit (buy at 950.00, sell at 1080.00, profit per unit is 59.80)
+T7_CLOTH_LEVEL1@1: 12 units for 24631.50 profit (buy at 25787.00, sell at 29775.00, profit per unit is 2052.62)
+
+Maximum profit: 526999.03
+Profit margin: 13.30%
+Total cost: 3962698.00
+Total weight: 3942.22 / 4000.00
+Total time: 8.00
 
 ----------------------------------------------------------------------------------------------------
-Optimal trade quantities for Lymhurst → Fort Sterling → Thetford:
+Optimal trade quantities for Martlock to Thetford:
 
-T3_WOOD: AB = 308, AC = 0, BC = 0
-T4_ORE: AB = 0, AC = 0, BC = 1573
-T4_PLANKS_LEVEL2@2: AB = 0, AC = 0, BC = 424
-T5_WOOD_LEVEL1@1: AB = 1022, AC = 1301, BC = 0
-T5_ORE_LEVEL2@2: AB = 0, AC = 254, BC = 114
-T5_CLOTH_LEVEL2@2: AB = 91, AC = 0, BC = 0
-T7_ORE: AB = 0, AC = 561, BC = 0
-T8_PUMPKIN: AB = 1519, AC = 0, BC = 0
-T3_MEAT: AB = 0, AC = 0, BC = 1174
-Maximum profit: 1783854.29
-Time required: 21.00
+T5_ORE: 2988 units for 148279.50 profit (buy at 301.00, sell at 375.00, profit per unit is 49.62)
+T4_LEATHER_LEVEL2@2: 550 units for 93695.25 profit (buy at 2198.00, sell at 2533.00, profit per unit is 170.36)
+T7_FIBER: 370 units for 87734.40 profit (buy at 2523.00, sell at 2952.00, profit per unit is 237.12)
+T8_MILK: 936 units for 77561.64 profit (buy at 365.00, sell at 479.00, profit per unit is 82.87)
+T4_ORE_LEVEL2@2: 508 units for 72991.98 profit (buy at 1213.00, sell at 1451.00, profit per unit is 143.69)
+
+Maximum profit: 480262.77
+Profit margin: 12.01%
+Total cost: 3999642.00
+Total weight: 3998.40 / 4000.00
+Total time: 8.00
 
