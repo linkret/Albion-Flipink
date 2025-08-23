@@ -1,37 +1,31 @@
 INFO: Fast trade is better - Transport at 100% weight capacity!
 ----------------------------------------------------------------------------------------------------
-Optimal trade quantities for Thetford to Fort Sterling:
+Optimal trade quantities for Thetford → Fort Sterling → Lymhurst:
 
-T6_WOOD_LEVEL1@1: 606 units for 175349.13 profit (buy at 1331.00, sell at 1733.00, profit per unit is 289.36)
-T4_WOOD: 3829 units for 113989.33 profit (buy at 103.00, sell at 142.00, profit per unit is 29.77)
-T4_WOOD_LEVEL3@3: 192 units for 98186.88 profit (buy at 5093.00, sell at 5994.00, profit per unit is 511.39)
-T4_LEATHER_LEVEL2@2: 372 units for 89211.18 profit (buy at 2237.00, sell at 2649.00, profit per unit is 239.82)
-T4_FIBER_LEVEL1@1: 1396 units for 69346.30 profit (buy at 142.00, sell at 205.00, profit per unit is 49.68)
-T8_WOOD_LEVEL1@1: 17 units for 66571.66 profit (buy at 10210.00, sell at 15108.00, profit per unit is 3915.98)
-T7_WOOD_LEVEL2@2: 18 units for 58647.51 profit (buy at 16187.00, sell at 20797.00, profit per unit is 3258.19)
-T7_HIDE_LEVEL2@2: 15 units for 42912.75 profit (buy at 19121.00, sell at 23510.00, profit per unit is 2860.85)
-T2_ORE: 1237 units for 14936.78 profit (buy at 30.00, sell at 45.00, profit per unit is 12.08)
-
-Maximum profit: 729151.52
-Profit margin: 18.24%
-Total cost: 3998086.00
-Total weight: 3999.23 / 4000.00
-Total time: 8.00
+T2_PLANKS: AB = 2122, AC = 0, BC = 0
+T3_WOOD: AB = 7383, AC = 0, BC = 0
+T4_WOOD_LEVEL1@1: AB = 89, AC = 0, BC = 0
+T4_ORE: AB = 0, AC = 0, BC = 288
+T4_METALBAR_LEVEL1@1: AB = 975, AC = 896, BC = 0
+T5_FIBER_LEVEL3@3: AB = 0, AC = 0, BC = 81
+T8_FIBER_LEVEL1@1: AB = 0, AC = 15, BC = 0
+T3_MEAT: AB = 0, AC = 0, BC = 2614
+TREASURE_RITUAL_RARITY1: AB = 0, AC = 0, BC = 631
+Maximum profit: 844293.04
+Time required: 21.00
 
 ----------------------------------------------------------------------------------------------------
-Optimal trade quantities for Fort Sterling to Thetford:
+Optimal trade quantities for Lymhurst → Fort Sterling → Thetford:
 
-T6_CLOTH: 481 units for 110052.80 profit (buy at 3773.00, sell at 4280.00, profit per unit is 228.80)
-T5_CLOTH_LEVEL2@2: 128 units for 68026.88 profit (buy at 4439.00, sell at 5316.00, profit per unit is 531.46)
-T3_PLANKS: 2520 units for 46594.80 profit (buy at 219.00, sell at 254.00, profit per unit is 18.49)
-T3_MEAT: 1361 units for 43034.82 profit (buy at 391.00, sell at 452.00, profit per unit is 31.62)
-T4_HIDE_LEVEL3@3: 82 units for 26149.39 profit (buy at 5307.00, sell at 6017.00, profit per unit is 318.90)
-T4_ORE_LEVEL1@1: 233 units for 10707.52 profit (buy at 228.00, sell at 293.00, profit per unit is 45.96)
-T2_LEATHER: 985 units for 4486.67 profit (buy at 45.00, sell at 53.00, profit per unit is 4.55)
-
-Maximum profit: 309052.88
-Profit margin: 7.73%
-Total cost: 3999659.00
-Total weight: 2761.33 / 4000.00
-Total time: 8.00
+T3_WOOD: AB = 308, AC = 0, BC = 0
+T4_ORE: AB = 0, AC = 0, BC = 1573
+T4_PLANKS_LEVEL2@2: AB = 0, AC = 0, BC = 424
+T5_WOOD_LEVEL1@1: AB = 1022, AC = 1301, BC = 0
+T5_ORE_LEVEL2@2: AB = 0, AC = 254, BC = 114
+T5_CLOTH_LEVEL2@2: AB = 91, AC = 0, BC = 0
+T7_ORE: AB = 0, AC = 561, BC = 0
+T8_PUMPKIN: AB = 1519, AC = 0, BC = 0
+T3_MEAT: AB = 0, AC = 0, BC = 1174
+Maximum profit: 1783854.29
+Time required: 21.00
 
